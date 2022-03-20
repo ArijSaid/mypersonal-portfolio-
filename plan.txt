@@ -1,0 +1,7 @@
+header 
+Main
+HOME 
+ABOUT
+SKILLS AND EXPERIENCE 
+CONTACT US
+footer
